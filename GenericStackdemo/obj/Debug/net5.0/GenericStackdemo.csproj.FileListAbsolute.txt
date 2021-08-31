@@ -1,0 +1,16 @@
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\GenericStackdemo.exe
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\GenericStackdemo.deps.json
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\GenericStackdemo.runtimeconfig.json
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\GenericStackdemo.runtimeconfig.dev.json
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\GenericStackdemo.dll
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\ref\GenericStackdemo.dll
+F:\DOTNET\GenericStackdemo\GenericStackdemo\bin\Debug\net5.0\GenericStackdemo.pdb
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.csproj.AssemblyReference.cache
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.AssemblyInfoInputs.cache
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.AssemblyInfo.cs
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.csproj.CoreCompileInputs.cache
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.dll
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\ref\GenericStackdemo.dll
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.pdb
+F:\DOTNET\GenericStackdemo\GenericStackdemo\obj\Debug\net5.0\GenericStackdemo.genruntimeconfig.cache
